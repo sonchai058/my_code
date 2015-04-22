@@ -8,11 +8,7 @@
 	$sender = $_REQUEST['sender'];
 	$ScheduledDelivery = $_REQUEST['ScheduledDelivery'];
 	$force = $_REQUEST['force'];
-<<<<<<< HEAD
-	vbvbvb testtest teds211
-=======
-	vbvbvb
->>>>>>> parent of 4a4c439... fgfgfg
+	ดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดด
 	$result = sms::send_sms($username,$password,$msisdn,$message,$sender,$ScheduledDelivery,$force);
 	echo $result;
 ?>
