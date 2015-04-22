@@ -8,7 +8,7 @@
 	$sender = $_REQUEST['sender'];
 	$ScheduledDelivery = $_REQUEST['ScheduledDelivery'];
 	$force = $_REQUEST['force'];
-	
+	vbvbvb
 	$result = sms::send_sms($username,$password,$msisdn,$message,$sender,$ScheduledDelivery,$force);
 	echo $result;
 ?>
