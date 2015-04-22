@@ -8,7 +8,7 @@
 	$sender = $_REQUEST['sender'];
 	$ScheduledDelivery = $_REQUEST['ScheduledDelivery'];
 	$force = $_REQUEST['force'];
-	ดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดด
+	ดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดดด11111111111111111111111
 	$result = sms::send_sms($username,$password,$msisdn,$message,$sender,$ScheduledDelivery,$force);
 	echo $result;
 ?>
