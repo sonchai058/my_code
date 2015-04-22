@@ -1,4 +1,5 @@
 <?
+	rererererererererer
 	//include("xml2array.php");
 	include("sms.class.php");
 	
