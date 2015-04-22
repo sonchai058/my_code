@@ -1,6 +1,6 @@
 <?
 	include("sms.class.php");
-	
+	fggggggggggggggggggggggggggggggggggg
 	$username = $_REQUEST['username'];
 	$password = $_REQUEST['password'];
 	$msisdn = $_REQUEST['msisdn'];
